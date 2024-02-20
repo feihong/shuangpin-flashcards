@@ -3,7 +3,8 @@
 Choose Sogou for Shuangpin keyboard layout, since it's supported on both iOS and
 Mac. [Apple
 docs](https://support.apple.com/guide/chinese-input-method/view-shuangpin-keyboard-layouts-on-mac-cimc29a772a9/mac)
-include an image of what Sogou looks like.
+include an image of what Sogou looks like. For syllables that that aren't mapped
+to two keys, you must type o in front, e.g. oa -> a, oe -> e, etc.
 
 Important terminology:
 

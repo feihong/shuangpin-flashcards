@@ -1,6 +1,7 @@
 from pathlib import Path
 
 layout_file = Path('layout.txt')
+examples_file = Path('example-words.txt')
 output_file = Path('flashcards.txt')
 
 header = """\
@@ -12,7 +13,7 @@ header = """\
 """
 
 def get_mappings():
-  lines = Path('layout.txt').read_text().splitlines()
+  lines = layout_file.read_text().splitlines()
   for line in lines:
     line = line.strip()
     if not line:
@@ -32,6 +33,16 @@ def get_finals_cards():
       yield 'cloze;shuangpin;双拼 key for %s: {{c1::%s}};' % \
         (final, initial)
 
+def get_example_cards():
+  lines = examples_file.read_text().splitlines()
+  for line in lines:
+    line = line.strip()
+    if not line:
+      continue
+
+    word, keys = line.split(maxsplit=1)
+    yield 'cloze;shuangpin;双拼 for %s: {{c1::%s}}' % (word, keys)
+
 with output_file.open('w') as fp:
   fp.write(header)
 
@@ -39,4 +50,7 @@ with output_file.open('w') as fp:
     fp.write(line + '\n')
 
   for line in get_finals_cards():
+    fp.write(line + '\n')
+
+  for line in get_example_cards():
     fp.write(line + '\n')

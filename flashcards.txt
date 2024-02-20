@@ -67,3 +67,40 @@ cloze;shuangpin;双拼 key for ui: {{c1::v}};
 cloze;shuangpin;双拼 key for ou: {{c1::b}};
 cloze;shuangpin;双拼 key for in: {{c1::n}};
 cloze;shuangpin;双拼 key for ian: {{c1::m}};
+cloze;shuangpin;双拼 for 救命: {{c1::jqm;}}
+cloze;shuangpin;双拼 for 家长: {{c1::jwvh}}
+cloze;shuangpin;双拼 for 华侨: {{c1::hwqc}}
+cloze;shuangpin;双拼 for 峨眉山: {{c1::oemzuj}}
+cloze;shuangpin;双拼 for 耳环: {{c1::orhr}}
+cloze;shuangpin;双拼 for 环保: {{c1::hrbk}}
+cloze;shuangpin;双拼 for 决定: {{c1::jtd;}}
+cloze;shuangpin;双拼 for 虐待: {{c1::ntdl}}
+cloze;shuangpin;双拼 for 帅气: {{c1::uyqi}}
+cloze;shuangpin;双拼 for 旅行: {{c1::lyx;}}
+cloze;shuangpin;双拼 for 书店: {{c1::uudm}}
+cloze;shuangpin;双拼 for 首都: {{c1::ubdu}}
+cloze;shuangpin;双拼 for 吃饭: {{c1::iifj}}
+cloze;shuangpin;双拼 for 米兰: {{c1::milj}}
+cloze;shuangpin;双拼 for 硕士: {{c1::uoui}}
+cloze;shuangpin;双拼 for 我靠: {{c1::wokk}}
+cloze;shuangpin;双拼 for 春天: {{c1::iptm}}
+cloze;shuangpin;双拼 for 卡牌: {{c1::kapl}}
+cloze;shuangpin;双拼 for 兄弟: {{c1::xsdi}}
+cloze;shuangpin;双拼 for 恐怖: {{c1::ksbu}}
+cloze;shuangpin;双拼 for 润肤霜: {{c1::rpfuud}}
+cloze;shuangpin;双拼 for 强调: {{c1::qddc}}
+cloze;shuangpin;双拼 for 笨拙: {{c1::bfvo}}
+cloze;shuangpin;双拼 for 蜂蜜: {{c1::fgmi}}
+cloze;shuangpin;双拼 for 帮助: {{c1::bhvu}}
+cloze;shuangpin;双拼 for 攀岩: {{c1::pjyj}}
+cloze;shuangpin;双拼 for 火炮: {{c1::hopk}}
+cloze;shuangpin;双拼 for 排骨: {{c1::plgu}}
+cloze;shuangpin;双拼 for 情人节: {{c1::q;rfjx}}
+cloze;shuangpin;双拼 for 雷霆: {{c1::lzt;}}
+cloze;shuangpin;双拼 for 螃蟹: {{c1::phxx}}
+cloze;shuangpin;双拼 for 瞄准: {{c1::mcvp}}
+cloze;shuangpin;双拼 for 枕头: {{c1::vftb}}
+cloze;shuangpin;双拼 for 对方: {{c1::dvfh}}
+cloze;shuangpin;双拼 for 莲藕: {{c1::lmob}}
+cloze;shuangpin;双拼 for 品味: {{c1::pnwz}}
+cloze;shuangpin;双拼 for 棉花糖: {{c1::mmhwth}}
