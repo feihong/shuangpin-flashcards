@@ -5,11 +5,10 @@ examples_file = Path('example-words.txt')
 output_file = Path('flashcards.txt')
 
 header = """\
-#separator:semicolon
+#separator:tab
 #html:true
-#notetype column: 1
-#tags column: 2
-#columns:basic;tags;front;back
+#notetype column:1
+#tags column:2
 """
 
 def get_mappings():
@@ -24,13 +23,13 @@ def get_mappings():
 
 def get_key_cards():
   for initial, finals in get_mappings():
-    yield 'cloze;shuangpin;双拼韵母 for %s: {{c1::%s}};' % \
+    yield 'Cloze\tshuangpin\t双拼韵母 for %s: {{c1::%s}}' % \
       (initial, ', '.join(finals))
 
 def get_finals_cards():
   for initial, finals in get_mappings():
     for final in finals:
-      yield 'cloze;shuangpin;双拼 key for %s: {{c1::%s}};' % \
+      yield 'Cloze\tshuangpin\t双拼 key for %s: {{c1::%s}}' % \
         (final, initial)
 
 def get_example_cards():
@@ -41,7 +40,7 @@ def get_example_cards():
       continue
 
     word, keys = line.split(maxsplit=1)
-    yield 'cloze;shuangpin;双拼 for %s: {{c1::%s}}' % (word, keys)
+    yield 'Cloze\tshuangpin\t双拼 for %s: {{c1::%s}}' % (word, keys)
 
 with output_file.open('w') as fp:
   fp.write(header)

@@ -1,106 +1,105 @@
-#separator:semicolon
+#separator:tab
 #html:true
-#notetype column: 1
-#tags column: 2
-#columns:basic;tags;front;back
-cloze;shuangpin;双拼韵母 for q: {{c1::iu}};
-cloze;shuangpin;双拼韵母 for w: {{c1::ia, ua}};
-cloze;shuangpin;双拼韵母 for e: {{c1::e}};
-cloze;shuangpin;双拼韵母 for r: {{c1::er, uan}};
-cloze;shuangpin;双拼韵母 for t: {{c1::ue, üe}};
-cloze;shuangpin;双拼韵母 for y: {{c1::uai, ü}};
-cloze;shuangpin;双拼韵母 for u: {{c1::sh, u}};
-cloze;shuangpin;双拼韵母 for i: {{c1::ch, i}};
-cloze;shuangpin;双拼韵母 for o: {{c1::uo, o}};
-cloze;shuangpin;双拼韵母 for p: {{c1::un}};
-cloze;shuangpin;双拼韵母 for a: {{c1::a}};
-cloze;shuangpin;双拼韵母 for s: {{c1::iong, ong}};
-cloze;shuangpin;双拼韵母 for d: {{c1::uang, iang}};
-cloze;shuangpin;双拼韵母 for f: {{c1::en}};
-cloze;shuangpin;双拼韵母 for g: {{c1::eng}};
-cloze;shuangpin;双拼韵母 for h: {{c1::ang}};
-cloze;shuangpin;双拼韵母 for j: {{c1::an}};
-cloze;shuangpin;双拼韵母 for k: {{c1::ao}};
-cloze;shuangpin;双拼韵母 for l: {{c1::ai}};
-cloze;shuangpin;双拼韵母 for ;: {{c1::ing}};
-cloze;shuangpin;双拼韵母 for z: {{c1::ei}};
-cloze;shuangpin;双拼韵母 for x: {{c1::ie}};
-cloze;shuangpin;双拼韵母 for c: {{c1::iao}};
-cloze;shuangpin;双拼韵母 for v: {{c1::zh, ui}};
-cloze;shuangpin;双拼韵母 for b: {{c1::ou}};
-cloze;shuangpin;双拼韵母 for n: {{c1::in}};
-cloze;shuangpin;双拼韵母 for m: {{c1::ian}};
-cloze;shuangpin;双拼 key for iu: {{c1::q}};
-cloze;shuangpin;双拼 key for ia: {{c1::w}};
-cloze;shuangpin;双拼 key for ua: {{c1::w}};
-cloze;shuangpin;双拼 key for e: {{c1::e}};
-cloze;shuangpin;双拼 key for er: {{c1::r}};
-cloze;shuangpin;双拼 key for uan: {{c1::r}};
-cloze;shuangpin;双拼 key for ue: {{c1::t}};
-cloze;shuangpin;双拼 key for üe: {{c1::t}};
-cloze;shuangpin;双拼 key for uai: {{c1::y}};
-cloze;shuangpin;双拼 key for ü: {{c1::y}};
-cloze;shuangpin;双拼 key for sh: {{c1::u}};
-cloze;shuangpin;双拼 key for u: {{c1::u}};
-cloze;shuangpin;双拼 key for ch: {{c1::i}};
-cloze;shuangpin;双拼 key for i: {{c1::i}};
-cloze;shuangpin;双拼 key for uo: {{c1::o}};
-cloze;shuangpin;双拼 key for o: {{c1::o}};
-cloze;shuangpin;双拼 key for un: {{c1::p}};
-cloze;shuangpin;双拼 key for a: {{c1::a}};
-cloze;shuangpin;双拼 key for iong: {{c1::s}};
-cloze;shuangpin;双拼 key for ong: {{c1::s}};
-cloze;shuangpin;双拼 key for uang: {{c1::d}};
-cloze;shuangpin;双拼 key for iang: {{c1::d}};
-cloze;shuangpin;双拼 key for en: {{c1::f}};
-cloze;shuangpin;双拼 key for eng: {{c1::g}};
-cloze;shuangpin;双拼 key for ang: {{c1::h}};
-cloze;shuangpin;双拼 key for an: {{c1::j}};
-cloze;shuangpin;双拼 key for ao: {{c1::k}};
-cloze;shuangpin;双拼 key for ai: {{c1::l}};
-cloze;shuangpin;双拼 key for ing: {{c1::;}};
-cloze;shuangpin;双拼 key for ei: {{c1::z}};
-cloze;shuangpin;双拼 key for ie: {{c1::x}};
-cloze;shuangpin;双拼 key for iao: {{c1::c}};
-cloze;shuangpin;双拼 key for zh: {{c1::v}};
-cloze;shuangpin;双拼 key for ui: {{c1::v}};
-cloze;shuangpin;双拼 key for ou: {{c1::b}};
-cloze;shuangpin;双拼 key for in: {{c1::n}};
-cloze;shuangpin;双拼 key for ian: {{c1::m}};
-cloze;shuangpin;双拼 for 救命: {{c1::jqm;}}
-cloze;shuangpin;双拼 for 家长: {{c1::jwvh}}
-cloze;shuangpin;双拼 for 华侨: {{c1::hwqc}}
-cloze;shuangpin;双拼 for 峨眉山: {{c1::oemzuj}}
-cloze;shuangpin;双拼 for 耳环: {{c1::orhr}}
-cloze;shuangpin;双拼 for 环保: {{c1::hrbk}}
-cloze;shuangpin;双拼 for 决定: {{c1::jtd;}}
-cloze;shuangpin;双拼 for 虐待: {{c1::ntdl}}
-cloze;shuangpin;双拼 for 帅气: {{c1::uyqi}}
-cloze;shuangpin;双拼 for 旅行: {{c1::lyx;}}
-cloze;shuangpin;双拼 for 书店: {{c1::uudm}}
-cloze;shuangpin;双拼 for 首都: {{c1::ubdu}}
-cloze;shuangpin;双拼 for 吃饭: {{c1::iifj}}
-cloze;shuangpin;双拼 for 米兰: {{c1::milj}}
-cloze;shuangpin;双拼 for 硕士: {{c1::uoui}}
-cloze;shuangpin;双拼 for 我靠: {{c1::wokk}}
-cloze;shuangpin;双拼 for 春天: {{c1::iptm}}
-cloze;shuangpin;双拼 for 卡牌: {{c1::kapl}}
-cloze;shuangpin;双拼 for 兄弟: {{c1::xsdi}}
-cloze;shuangpin;双拼 for 恐怖: {{c1::ksbu}}
-cloze;shuangpin;双拼 for 润肤霜: {{c1::rpfuud}}
-cloze;shuangpin;双拼 for 强调: {{c1::qddc}}
-cloze;shuangpin;双拼 for 笨拙: {{c1::bfvo}}
-cloze;shuangpin;双拼 for 蜂蜜: {{c1::fgmi}}
-cloze;shuangpin;双拼 for 帮助: {{c1::bhvu}}
-cloze;shuangpin;双拼 for 攀岩: {{c1::pjyj}}
-cloze;shuangpin;双拼 for 火炮: {{c1::hopk}}
-cloze;shuangpin;双拼 for 排骨: {{c1::plgu}}
-cloze;shuangpin;双拼 for 情人节: {{c1::q;rfjx}}
-cloze;shuangpin;双拼 for 雷霆: {{c1::lzt;}}
-cloze;shuangpin;双拼 for 螃蟹: {{c1::phxx}}
-cloze;shuangpin;双拼 for 瞄准: {{c1::mcvp}}
-cloze;shuangpin;双拼 for 枕头: {{c1::vftb}}
-cloze;shuangpin;双拼 for 对方: {{c1::dvfh}}
-cloze;shuangpin;双拼 for 莲藕: {{c1::lmob}}
-cloze;shuangpin;双拼 for 品味: {{c1::pnwz}}
-cloze;shuangpin;双拼 for 棉花糖: {{c1::mmhwth}}
+#notetype column:1
+#tags column:2
+Cloze	shuangpin	双拼韵母 for q: {{c1::iu}}
+Cloze	shuangpin	双拼韵母 for w: {{c1::ia, ua}}
+Cloze	shuangpin	双拼韵母 for e: {{c1::e}}
+Cloze	shuangpin	双拼韵母 for r: {{c1::er, uan}}
+Cloze	shuangpin	双拼韵母 for t: {{c1::ue, üe}}
+Cloze	shuangpin	双拼韵母 for y: {{c1::uai, ü}}
+Cloze	shuangpin	双拼韵母 for u: {{c1::sh, u}}
+Cloze	shuangpin	双拼韵母 for i: {{c1::ch, i}}
+Cloze	shuangpin	双拼韵母 for o: {{c1::uo, o}}
+Cloze	shuangpin	双拼韵母 for p: {{c1::un}}
+Cloze	shuangpin	双拼韵母 for a: {{c1::a}}
+Cloze	shuangpin	双拼韵母 for s: {{c1::iong, ong}}
+Cloze	shuangpin	双拼韵母 for d: {{c1::uang, iang}}
+Cloze	shuangpin	双拼韵母 for f: {{c1::en}}
+Cloze	shuangpin	双拼韵母 for g: {{c1::eng}}
+Cloze	shuangpin	双拼韵母 for h: {{c1::ang}}
+Cloze	shuangpin	双拼韵母 for j: {{c1::an}}
+Cloze	shuangpin	双拼韵母 for k: {{c1::ao}}
+Cloze	shuangpin	双拼韵母 for l: {{c1::ai}}
+Cloze	shuangpin	双拼韵母 for ;: {{c1::ing}}
+Cloze	shuangpin	双拼韵母 for z: {{c1::ei}}
+Cloze	shuangpin	双拼韵母 for x: {{c1::ie}}
+Cloze	shuangpin	双拼韵母 for c: {{c1::iao}}
+Cloze	shuangpin	双拼韵母 for v: {{c1::zh, ui}}
+Cloze	shuangpin	双拼韵母 for b: {{c1::ou}}
+Cloze	shuangpin	双拼韵母 for n: {{c1::in}}
+Cloze	shuangpin	双拼韵母 for m: {{c1::ian}}
+Cloze	shuangpin	双拼 key for iu: {{c1::q}}
+Cloze	shuangpin	双拼 key for ia: {{c1::w}}
+Cloze	shuangpin	双拼 key for ua: {{c1::w}}
+Cloze	shuangpin	双拼 key for e: {{c1::e}}
+Cloze	shuangpin	双拼 key for er: {{c1::r}}
+Cloze	shuangpin	双拼 key for uan: {{c1::r}}
+Cloze	shuangpin	双拼 key for ue: {{c1::t}}
+Cloze	shuangpin	双拼 key for üe: {{c1::t}}
+Cloze	shuangpin	双拼 key for uai: {{c1::y}}
+Cloze	shuangpin	双拼 key for ü: {{c1::y}}
+Cloze	shuangpin	双拼 key for sh: {{c1::u}}
+Cloze	shuangpin	双拼 key for u: {{c1::u}}
+Cloze	shuangpin	双拼 key for ch: {{c1::i}}
+Cloze	shuangpin	双拼 key for i: {{c1::i}}
+Cloze	shuangpin	双拼 key for uo: {{c1::o}}
+Cloze	shuangpin	双拼 key for o: {{c1::o}}
+Cloze	shuangpin	双拼 key for un: {{c1::p}}
+Cloze	shuangpin	双拼 key for a: {{c1::a}}
+Cloze	shuangpin	双拼 key for iong: {{c1::s}}
+Cloze	shuangpin	双拼 key for ong: {{c1::s}}
+Cloze	shuangpin	双拼 key for uang: {{c1::d}}
+Cloze	shuangpin	双拼 key for iang: {{c1::d}}
+Cloze	shuangpin	双拼 key for en: {{c1::f}}
+Cloze	shuangpin	双拼 key for eng: {{c1::g}}
+Cloze	shuangpin	双拼 key for ang: {{c1::h}}
+Cloze	shuangpin	双拼 key for an: {{c1::j}}
+Cloze	shuangpin	双拼 key for ao: {{c1::k}}
+Cloze	shuangpin	双拼 key for ai: {{c1::l}}
+Cloze	shuangpin	双拼 key for ing: {{c1::;}}
+Cloze	shuangpin	双拼 key for ei: {{c1::z}}
+Cloze	shuangpin	双拼 key for ie: {{c1::x}}
+Cloze	shuangpin	双拼 key for iao: {{c1::c}}
+Cloze	shuangpin	双拼 key for zh: {{c1::v}}
+Cloze	shuangpin	双拼 key for ui: {{c1::v}}
+Cloze	shuangpin	双拼 key for ou: {{c1::b}}
+Cloze	shuangpin	双拼 key for in: {{c1::n}}
+Cloze	shuangpin	双拼 key for ian: {{c1::m}}
+Cloze	shuangpin	双拼 for 救命: {{c1::jqm;}}
+Cloze	shuangpin	双拼 for 家长: {{c1::jwvh}}
+Cloze	shuangpin	双拼 for 华侨: {{c1::hwqc}}
+Cloze	shuangpin	双拼 for 峨眉山: {{c1::oemzuj}}
+Cloze	shuangpin	双拼 for 耳环: {{c1::orhr}}
+Cloze	shuangpin	双拼 for 环保: {{c1::hrbk}}
+Cloze	shuangpin	双拼 for 决定: {{c1::jtd;}}
+Cloze	shuangpin	双拼 for 虐待: {{c1::ntdl}}
+Cloze	shuangpin	双拼 for 帅气: {{c1::uyqi}}
+Cloze	shuangpin	双拼 for 旅行: {{c1::lyx;}}
+Cloze	shuangpin	双拼 for 书店: {{c1::uudm}}
+Cloze	shuangpin	双拼 for 首都: {{c1::ubdu}}
+Cloze	shuangpin	双拼 for 吃饭: {{c1::iifj}}
+Cloze	shuangpin	双拼 for 米兰: {{c1::milj}}
+Cloze	shuangpin	双拼 for 硕士: {{c1::uoui}}
+Cloze	shuangpin	双拼 for 我靠: {{c1::wokk}}
+Cloze	shuangpin	双拼 for 春天: {{c1::iptm}}
+Cloze	shuangpin	双拼 for 卡牌: {{c1::kapl}}
+Cloze	shuangpin	双拼 for 兄弟: {{c1::xsdi}}
+Cloze	shuangpin	双拼 for 恐怖: {{c1::ksbu}}
+Cloze	shuangpin	双拼 for 润肤霜: {{c1::rpfuud}}
+Cloze	shuangpin	双拼 for 强调: {{c1::qddc}}
+Cloze	shuangpin	双拼 for 笨拙: {{c1::bfvo}}
+Cloze	shuangpin	双拼 for 蜂蜜: {{c1::fgmi}}
+Cloze	shuangpin	双拼 for 帮助: {{c1::bhvu}}
+Cloze	shuangpin	双拼 for 攀岩: {{c1::pjyj}}
+Cloze	shuangpin	双拼 for 火炮: {{c1::hopk}}
+Cloze	shuangpin	双拼 for 排骨: {{c1::plgu}}
+Cloze	shuangpin	双拼 for 情人节: {{c1::q;rfjx}}
+Cloze	shuangpin	双拼 for 雷霆: {{c1::lzt;}}
+Cloze	shuangpin	双拼 for 螃蟹: {{c1::phxx}}
+Cloze	shuangpin	双拼 for 瞄准: {{c1::mcvp}}
+Cloze	shuangpin	双拼 for 枕头: {{c1::vftb}}
+Cloze	shuangpin	双拼 for 对方: {{c1::dvfh}}
+Cloze	shuangpin	双拼 for 莲藕: {{c1::lmob}}
+Cloze	shuangpin	双拼 for 品味: {{c1::pnwz}}
+Cloze	shuangpin	双拼 for 棉花糖: {{c1::mmhwth}}
